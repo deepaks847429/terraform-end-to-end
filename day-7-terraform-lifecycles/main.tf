@@ -10,8 +10,8 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"  # Replace with the region you want to use
-  access_key = "AKIA4WJPWUDXMSRSQCR6"
-  secret_key = "yzbjCAXmtstmcnRVOYg7vNjvZYEwmzqb6ON9SAVa"
+  access_key = 
+  secret_key = 
 }
 
 # Example resource (AWS EC2 instance)
